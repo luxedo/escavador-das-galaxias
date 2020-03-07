@@ -1,0 +1,20 @@
+{
+  "name": "escavador-das-galaxias",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "scraper",
+    "galaxy"
+  ],
+  "author": "Luiz Eduardo Amaral",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "is-corrupted-jpeg": "^1.0.2",
+    "puppeteer": "^2.1.1"
+  }
+}
