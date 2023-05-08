@@ -13,7 +13,7 @@
   "author": "Luiz Eduardo Amaral",
   "license": "ISC",
   "dependencies": {
-    "cheerio": "^1.0.0-rc.3",
+    "cheerio": "^1.0.0-rc.12",
     "is-corrupted-jpeg": "^1.0.2",
     "puppeteer": "^2.1.1"
   }
